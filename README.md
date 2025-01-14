@@ -1,5 +1,5 @@
 # Hello, I'm Cyril Onyia
-<a href="www.linkedin.com/in/cyrilonyia"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://linkedin.com/in/cyrilonyia"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
  I’m an IT specialist and cybersecurity enthusiast with a passion for problem-solving, learning, and building innovative solutions. Welcome to my GitHub! 
 
