@@ -3,7 +3,7 @@
 <a href="https://linkedin.com/in/cyrilonyia"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="https://cyril-419.github.io"><img src="https://img.shields.io/badge/-Portfolio-222222?&style=for-the-badge&logo=githubpages&logoColor=white" /></a>
 
-Cybersecurity student at **Western Governors University** (B.S. Cybersecurity, expected Dec 2027) based in the Dallas–Fort Worth area. I'm building toward a career in **security operations and GRC**, starting from hands-on IT support. I like turning messy data (logs, alerts, tickets) into something a person can act on.
+Cybersecurity student at **Western Governors University** (B.S. Cybersecurity, expected May 2027) based in the Dallas–Fort Worth area. I'm building toward a career in **security operations and GRC**, starting from hands-on IT support. I like turning messy data (logs, alerts, tickets) into something a person can act on.
 
 🔎 **Open to:** IT support / help desk roles and security internships
 
