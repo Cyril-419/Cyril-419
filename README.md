@@ -15,7 +15,8 @@ Cybersecurity student at **Western Governors University** (B.S. Cybersecurity, e
 Python tool that parses **Linux, Windows and web server** authentication logs, normalizes them into one format, stores them in **SQLite**, and detects **brute force, password spraying** (MITRE ATT&CK T1110) and successful logins after repeated failures.
 - Benchmarked at **1M events in ~26 seconds**, with all planted attacks detected and zero false positives
 - Sliding-window detection rules with tunable thresholds
-- 28 automated tests (pytest)
+- REST API (`GET /health`, `POST /analyze`) and JSON output for integration with other tools
+- 48 automated tests run by a GitHub Actions CI pipeline on Python 3.10–3.13
 
 ## 🧪 Labs and other projects
 - **Detection Lab**: home lab for log collection and attack detection
