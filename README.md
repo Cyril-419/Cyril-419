@@ -9,7 +9,7 @@ Cybersecurity student at **Western Governors University** (B.S. Cybersecurity, e
 
 ---
 
-## 🛠️ Featured project
+## 🛠️ Featured projects
 
 ### [Security Log Analyzer](https://github.com/Cyril-419/security-log-analyzer)
 [![CI](https://github.com/Cyril-419/Security-Log-Analyzer/actions/workflows/ci.yml/badge.svg)](https://github.com/Cyril-419/Security-Log-Analyzer/actions/workflows/ci.yml)
@@ -19,6 +19,14 @@ Python tool that parses **Linux, Windows and web server** authentication logs, n
 - Sliding-window detection rules with tunable thresholds
 - REST API (`GET /health`, `POST /analyze`) and JSON output for integration with other tools
 - 48 automated tests run by a GitHub Actions CI pipeline on Python 3.10–3.13
+
+### [Log Analyzer Dashboard](https://github.com/Cyril-419/Log-Analyzer-Dashboard)
+[![CI](https://github.com/Cyril-419/Log-Analyzer-Dashboard/actions/workflows/ci.yml/badge.svg)](https://github.com/Cyril-419/Log-Analyzer-Dashboard/actions/workflows/ci.yml)
+
+Full-stack web app for the analyzer: **React + TypeScript** frontend, **Node.js** REST API with **SQLite**, calling the Python analyzer as a separate **microservice**.
+- Upload logs, tune detection thresholds, and explore alerts, charts and saved history
+- Hardened API: schema validation, upload limits, rate limiting, Content-Security-Policy, parameterized SQL
+- 29 API tests and 8 **Playwright** browser tests; CI starts all three services and tests them end to end
 
 ## 🧪 Labs and other projects
 - **Detection Lab**: home lab for log collection and attack detection
