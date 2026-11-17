@@ -5,7 +5,7 @@
 
 Cybersecurity student at **Western Governors University** (B.S. Cybersecurity, expected Dec 2027) based in the Dallas–Fort Worth area. I'm building toward a career in **security operations and GRC**, starting from hands-on IT support. I like turning messy data (logs, alerts, tickets) into something a person can act on.
 
-🔎 **Open to:** IT support / help desk roles and security internships
+🔎 **Open to:** IT support / help desk, cybersecurity, GRC, and software engineering roles and internships
 
 ---
 
