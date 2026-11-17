@@ -64,6 +64,7 @@ Full-stack web app for the analyzer: **React + TypeScript** frontend, **Node.js*
 </div>
 
 ## 📜 Certifications
+<img src="https://img.shields.io/badge/-AMD_ROCm_Certified_Associate-ED1C24?&style=for-the-badge&logo=amd&logoColor=white" />
 <img src="https://img.shields.io/badge/-Google_Cybersecurity_Certificate-4285F4?&style=for-the-badge&logo=google&logoColor=white" />
 
 **In progress:** CompTIA Security+ (through WGU)
