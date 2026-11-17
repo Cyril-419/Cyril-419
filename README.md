@@ -11,6 +11,21 @@ Cybersecurity student at **Western Governors University** (B.S. Cybersecurity, e
 
 ## 🛠️ Featured projects
 
+### [Active Directory Home Lab](https://github.com/Cyril-419/Active-Directory-Home-Lab)
+
+A Windows domain built from scratch in **VirtualBox**: a **Windows Server 2022** domain controller and a domain-joined **Windows 11** client, used to practice everyday help desk and system administration work.
+- Automated the build with **PowerShell**: OUs, security groups and 12 users bulk-created from CSV
+- Worked help desk tickets: account lockouts, password resets, new-hire onboarding and offboarding
+- Created and scoped **Group Policy** by department and verified it with `gpresult`
+- Delegated password reset and unlock rights to a help desk group without making it Domain Admins (least privilege)
+- Documented real troubleshooting: DNS-based domain join failures, a stale DHCP lease, and VM issues
+
+### [Azure Sentinel Honeypot](https://github.com/Cyril-419/Azure-Sentinel-Honeypot)
+
+Internet-exposed **Windows VM in Azure** sending its logs to **Microsoft Sentinel**.
+- **KQL** detections for brute force and password spraying (MITRE ATT&CK T1110)
+- Attack map workbook and incident triage
+
 ### [Security Log Analyzer](https://github.com/Cyril-419/security-log-analyzer)
 [![CI](https://github.com/Cyril-419/Security-Log-Analyzer/actions/workflows/ci.yml/badge.svg)](https://github.com/Cyril-419/Security-Log-Analyzer/actions/workflows/ci.yml)
 
@@ -49,6 +64,7 @@ Full-stack web app for the analyzer: **React + TypeScript** frontend, **Node.js*
 | Security automation | Shuffle SOAR, Python scripting |
 | GRC | NIST CSF, HIPAA, risk and audit fundamentals (GRC internship) |
 | IT support | Troubleshooting, account and password issues, ticket documentation and escalation in a high-volume support environment |
+| Windows administration | Active Directory, Group Policy, DNS/DHCP, PowerShell, VirtualBox |
 
 ### Tools
 <div>
@@ -58,7 +74,9 @@ Full-stack web app for the analyzer: **React + TypeScript** frontend, **Node.js*
   <img src="https://img.shields.io/badge/-Zeek-777BB4?&style=for-the-badge" />
   <img src="https://img.shields.io/badge/-Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=microsoft&logoColor=white" />
   <img src="https://img.shields.io/badge/-Shuffle_SOAR-F85A3E?&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/-Python-3776AB?&style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Active_Directory-0078D4?&style=for-the-badge&logo=windows&logoColor=white" />
+<img src="https://img.shields.io/badge/-PowerShell-5391FE?&style=for-the-badge&logo=powershell&logoColor=white" />
+<img src="https://img.shields.io/badge/-Python-3776AB?&style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/-SQLite-003B57?&style=for-the-badge&logo=sqlite&logoColor=white" />
   <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?&style=for-the-badge&logo=javascript&logoColor=black" />
 </div>
